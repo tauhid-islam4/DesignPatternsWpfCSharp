@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tauhi\\source\\repos\\DesignPatterns\\DesignPatternsWpf\\WpfBuilderDesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8029275-92FB-40DC-9AC7-654549870297}|WpfBuilderDesignPattern.csproj|c:\\users\\tauhi\\source\\repos\\designpatterns\\designpatternswpf\\wpfbuilderdesignpattern\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8029275-92FB-40DC-9AC7-654549870297}|WpfBuilderDesignPattern.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8029275-92FB-40DC-9AC7-654549870297}|WpfBuilderDesignPattern.csproj|c:\\users\\tauhi\\source\\repos\\designpatterns\\designpatternswpf\\wpfbuilderdesignpattern\\icomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8029275-92FB-40DC-9AC7-654549870297}|WpfBuilderDesignPattern.csproj|solutionrelative:icomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8029275-92FB-40DC-9AC7-654549870297}|WpfBuilderDesignPattern.csproj|c:\\users\\tauhi\\source\\repos\\designpatterns\\designpatternswpf\\wpfbuilderdesignpattern\\gamingpcbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8029275-92FB-40DC-9AC7-654549870297}|WpfBuilderDesignPattern.csproj|solutionrelative:gamingpcbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8029275-92FB-40DC-9AC7-654549870297}|WpfBuilderDesignPattern.csproj|c:\\users\\tauhi\\source\\repos\\designpatterns\\designpatternswpf\\wpfbuilderdesignpattern\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E8029275-92FB-40DC-9AC7-654549870297}|WpfBuilderDesignPattern.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8029275-92FB-40DC-9AC7-654549870297}|WpfBuilderDesignPattern.csproj|c:\\users\\tauhi\\source\\repos\\designpatterns\\designpatternswpf\\wpfbuilderdesignpattern\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8029275-92FB-40DC-9AC7-654549870297}|WpfBuilderDesignPattern.csproj|solutionrelative:computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8029275-92FB-40DC-9AC7-654549870297}|WpfBuilderDesignPattern.csproj|c:\\users\\tauhi\\source\\repos\\designpatterns\\designpatternswpf\\wpfbuilderdesignpattern\\officepcbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8029275-92FB-40DC-9AC7-654549870297}|WpfBuilderDesignPattern.csproj|solutionrelative:officepcbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8029275-92FB-40DC-9AC7-654549870297}|WpfBuilderDesignPattern.csproj|c:\\users\\tauhi\\source\\repos\\designpatterns\\designpatternswpf\\wpfbuilderdesignpattern\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8029275-92FB-40DC-9AC7-654549870297}|WpfBuilderDesignPattern.csproj|solutionrelative:director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\Users\\tauhi\\source\\repos\\DesignPatterns\\DesignPatternsWpf\\WpfBuilderDesignPattern\\Director.cs",
+              "RelativeDocumentMoniker": "Director.cs",
+              "ToolTip": "C:\\Users\\tauhi\\source\\repos\\DesignPatterns\\DesignPatternsWpf\\WpfBuilderDesignPattern\\Director.cs",
+              "RelativeToolTip": "Director.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:01:32.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OfficePCBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\tauhi\\source\\repos\\DesignPatterns\\DesignPatternsWpf\\WpfBuilderDesignPattern\\OfficePCBuilder.cs",
+              "RelativeDocumentMoniker": "OfficePCBuilder.cs",
+              "ToolTip": "C:\\Users\\tauhi\\source\\repos\\DesignPatterns\\DesignPatternsWpf\\WpfBuilderDesignPattern\\OfficePCBuilder.cs",
+              "RelativeToolTip": "OfficePCBuilder.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:01:07.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GamingPCBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\tauhi\\source\\repos\\DesignPatterns\\DesignPatternsWpf\\WpfBuilderDesignPattern\\GamingPCBuilder.cs",
+              "RelativeDocumentMoniker": "GamingPCBuilder.cs",
+              "ToolTip": "C:\\Users\\tauhi\\source\\repos\\DesignPatterns\\DesignPatternsWpf\\WpfBuilderDesignPattern\\GamingPCBuilder.cs",
+              "RelativeToolTip": "GamingPCBuilder.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:00:40.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IComputerBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\tauhi\\source\\repos\\DesignPatterns\\DesignPatternsWpf\\WpfBuilderDesignPattern\\IComputerBuilder.cs",
+              "RelativeDocumentMoniker": "IComputerBuilder.cs",
+              "ToolTip": "C:\\Users\\tauhi\\source\\repos\\DesignPatterns\\DesignPatternsWpf\\WpfBuilderDesignPattern\\IComputerBuilder.cs",
+              "RelativeToolTip": "IComputerBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:00:14.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "C:\\Users\\tauhi\\source\\repos\\DesignPatterns\\DesignPatternsWpf\\WpfBuilderDesignPattern\\Computer.cs",
+              "RelativeDocumentMoniker": "Computer.cs",
+              "ToolTip": "C:\\Users\\tauhi\\source\\repos\\DesignPatterns\\DesignPatternsWpf\\WpfBuilderDesignPattern\\Computer.cs",
+              "RelativeToolTip": "Computer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:59:26.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tauhi\\source\\repos\\DesignPatterns\\DesignPatternsWpf\\WpfBuilderDesignPattern\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\tauhi\\source\\repos\\DesignPatterns\\DesignPatternsWpf\\WpfBuilderDesignPattern\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-22T15:55:34.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tauhi\\source\\repos\\DesignPatterns\\DesignPatternsWpf\\WpfBuilderDesignPattern\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\tauhi\\source\\repos\\DesignPatterns\\DesignPatternsWpf\\WpfBuilderDesignPattern\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:55:33.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

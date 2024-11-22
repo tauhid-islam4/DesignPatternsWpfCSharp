@@ -1,0 +1,9 @@
+﻿<Window x:Class="WpfSingletonDesignPattern.MainWindow"
+ xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Singleton Pattern" Height="200" Width="300">
+    <StackPanel>
+        <Button Content="Log Message" Click="LogMessage_Click" />
+        <TextBlock x:Name="LogOutput" FontSize="16" Margin="10" />
+    </StackPanel>
+</Window>

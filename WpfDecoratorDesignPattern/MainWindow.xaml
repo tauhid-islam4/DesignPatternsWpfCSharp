@@ -1,0 +1,10 @@
+﻿<Window x:Class="WpfDecoratorDesignPattern.MainWindow"
+ xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Decorator Pattern" Height="200" Width="300">
+    <StackPanel>
+        <Button Content="Add Milk" Click="AddMilk_Click" />
+        <Button Content="Add Sugar" Click="AddSugar_Click" />
+        <TextBlock x:Name="BeverageInfo" FontSize="16" Margin="10" />
+    </StackPanel>
+</Window>
