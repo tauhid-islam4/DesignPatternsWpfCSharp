@@ -1,0 +1,10 @@
+﻿<Window x:Class="WpfFactoryDesignPattern.MainWindow"
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Factory Pattern" Height="200" Width="300">
+    <StackPanel>
+        <Button Content="Create Circle" Click="CreateCircle_Click" />
+        <Button Content="Create Square" Click="CreateSquare_Click" />
+        <TextBlock x:Name="ShapeInfo" FontSize="16" Margin="10" />
+    </StackPanel>
+</Window>
